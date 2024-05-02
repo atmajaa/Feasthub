@@ -1,1 +1,2 @@
 # Feasthub
+FeastHub makes life easier for college students living off-campus. It's a convenient platform where they can easily find and order meals from local tiffin services. With just a few clicks, students can explore menus, place orders, and have their food delivered hassle-free. FeastHub also helps local food vendors by giving them a platform to showcase their offerings and connect with students. It's all about simplifying the process and making sure students have access to delicious meals without the stress.
